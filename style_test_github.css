@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8" />
+
+    <title>Explorer · Immo Contor AG · REDAXO CMS</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_style/css/styles.css&amp;buster=1584342102" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_style/css/bootstrap-select.min.css&amp;buster=1583399947" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_style/plugins/customizer/css/styles.css&amp;buster=1584342102" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_style/plugins/customizer/css/styles-labelcolor.css&amp;buster=1584342102" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_style/plugins/redaxo/css/styles.css&amp;buster=1584342102" />
+    <link rel="stylesheet" type="text/css" media="all" href="../assets/addons/be_branding/css/style.css?v=1.3.3" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/be_explorer/css/tinyfilemanager.css&amp;buster=1583400295" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/ckeditor/backend.css&amp;buster=1584438746" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mblock/templates/default_theme/theme.css&amp;buster=1583400135" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mblock/mblock.css&amp;buster=1583400135" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mform/templates/default_theme/theme.css&amp;buster=1583400142" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mform/parsley/parsley.css&amp;buster=1583400142" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mform/toggle/toggle.css&amp;buster=1583400142" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mform/css/imglist.css&amp;buster=1583400142" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/mform/plugins/docs/docs.css&amp;buster=1583400142" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/modulsammlung/css/styles.css&amp;buster=1583400170" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/multiupload/fileuploader.css&amp;buster=1584447402" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/metainfo/metainfo.css&amp;buster=1584342103" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/yform.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/yform-formbuilder.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/plugins/docs/docs.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/plugins/manager/manager.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/plugins/tools/daterangepicker/daterangepicker.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/plugins/tools/select2/dist/css/select2.min.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yform/plugins/tools/css/styles.css&amp;buster=1583400105" />
+    <link rel="stylesheet" type="text/css" media="all" href="index.php?asset=../assets/addons/yrewrite/yrewrite.css&amp;buster=1583400113" />
+
+    <script type="text/javascript">
+    <!--
+    var rex = {"backend":true,"accesskeys":true,"session_keep_alive":21600,"customizer_codemirror_defaulttheme":"eclipse","customizer_codemirror_selectors":"textarea.rex-code, textarea.rex-js-code, textarea.codemirror","customizer_codemirror_jsbuster":1584342104,"customizer_codemirror_cssbuster":1584342104,"customizer_labelcolor":"#3bb594","customizer_showlink":"<h1 class=\"be-style-customizer-title\"><a href=\"https:\/\/testing.contor.ch\/\" target=\"_blank\" rel=\"noreferrer noopener\"><span class=\"be-style-customizer-title-name\">Immo Contor AG<\/span><i class=\"fa fa-external-link\"><\/i><\/a><\/h1>","imageExtensions":["bmp","gif","jpeg","jpg","png","svg","tif","tiff","webp"],"page":"be_explorer\/explorer"};
+    //-->
+    </script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/jquery.min.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/jquery-ui.custom.min.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/jquery-pjax.min.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/standard.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/sha1.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/core/clipboard-copy-element.js&amp;buster=1584342102" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/addons/be_style/javascripts/bootstrap.js&amp;buster=1583399947" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/addons/be_style/javascripts/bootstrap-select.min.js&amp;buster=1583399947" ></script>
+    <script type="text/javascript" src="index.php?asset=../assets/addons/be_style/javascripts/bootstrap-select-defaults-de_DE.min.js&amp;buster=1583399947" ></script>
+    <script type="text/
