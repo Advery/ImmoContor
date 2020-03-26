@@ -345,3 +345,7 @@ footer p {
 .uk-offcanvas-bar {
   padding-top: 40px;
 }
+
+svg{
+  max-width: none;
+}
