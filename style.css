@@ -2,6 +2,7 @@
 
 /*
 yellow #FFED00
+light yellow #FFFAC6
 grau
 */
 
@@ -113,7 +114,7 @@ ul.uk-navbar-nav li a:hover {
   padding-left: 1rem;
 }
 .tel-nr {
-  background-color: #FFED00;
+  background-color: #FFFAC6;
   color: black;
   font-weight: bold;
   width: 100%;
