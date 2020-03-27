@@ -223,6 +223,9 @@ line-height: 2.6rem;
 margin-bottom: 1rem;
 text-align: center;
 }
+.card-bei-inhalt .uk-align-center {
+margin-top: 1.5rem;
+}
 
 /* FOOTER */
 .page-wrapper {
