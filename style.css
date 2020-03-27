@@ -113,8 +113,8 @@ ul.uk-navbar-nav li a:hover {
   padding-left: 1rem;
 }
 .tel-nr {
-  background-color: black;
-  color: white;
+  background-color: #FFED00;
+  color: black;
   font-weight: bold;
   width: 100%;
   min-height: 4rem;
