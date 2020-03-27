@@ -60,14 +60,7 @@ p a:hover {
 .inhalt-default {
  margin-top: 5.5rem;
 }
-.card-bei-inhalt {
-margin-top: 4rem;
-width: 66%;
-padding: 2rem;
-}
-.card-bei-inhalt h2 {
-font-size: 1.8rem;
-}
+
 
 /* NAVIGATION */
 .uk-navbar-container:not(.uk-navbar-transparent) {
@@ -218,6 +211,15 @@ ul.uk-navbar-dropdown-nav li {
 }
 .uk-card-media-top {
   margin-bottom: 1.8rem;
+}
+.card-bei-inhalt {
+margin-top: 4rem;
+width: 66%;
+padding: 2rem;
+}
+.card-bei-inhalt h2 {
+font-size: 1.8rem;
+text-align: center;
 }
 
 /* FOOTER */
