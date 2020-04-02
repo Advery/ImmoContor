@@ -361,10 +361,5 @@ footer p {
 }
 
 svg{
-  max-width: none;
+  max-width: 70px;
 }
-
-ul.uk-navbar-nav li > #mobile-navbar{
-  width: none !important;
-}
-
