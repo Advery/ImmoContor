@@ -368,7 +368,7 @@ svg{
   padding: none !important;
 }
 
-img{
+.uk-navbar-item > img{
   max-width: 80px;
 }
 
