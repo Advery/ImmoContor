@@ -367,3 +367,7 @@ svg{
 .uk-navbar-left{
   height: 100px;
 }
+
+.uk-logo img{
+  max-width: 50%;
+}
