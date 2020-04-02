@@ -363,3 +363,7 @@ footer p {
 svg{
   max-width: none;
 }
+
+.uk-navbar-left{
+  height: 100px;
+}
