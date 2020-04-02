@@ -361,5 +361,5 @@ footer p {
 }
 
 svg{
-  max-width: 70px !important;
+  max-width: none;
 }
