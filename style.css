@@ -364,7 +364,7 @@ svg{
   max-width: none;
 }
 
-uk.navbar-toggle{
+.uk-navbar-item, .uk-navbar-nav > li > a, .uk-navbar-toggle{
   padding: none !important;
 }
 
