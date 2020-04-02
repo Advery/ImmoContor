@@ -84,6 +84,7 @@ p a:hover {
 }
 .uk-navbar-left {
   width: 100%;
+	height: auto;
 }
 .nav-top .uk-navbar-left {
   width: calc(100% / 6 * 5);
