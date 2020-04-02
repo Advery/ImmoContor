@@ -368,6 +368,6 @@ svg{
   height: 100px;
 }
 
-.uk-logo img{
+.uk-logo a img{
   max-width: 50%;
 }
