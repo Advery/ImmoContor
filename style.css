@@ -368,3 +368,7 @@ svg{
   padding: none !important;
 }
 
+img{
+  max-width: 80px;
+}
+
