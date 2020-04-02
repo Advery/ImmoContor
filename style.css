@@ -364,7 +364,7 @@ svg{
   max-width: none;
 }
 
-ul.uk-navbar-nav li{
+ul.uk-navbar-nav li > #mobile-navbar{
   width: none !important;
 }
 
