@@ -264,7 +264,8 @@ footer p {
 
 /**** NAVI MOBILE ****/
 
-@media only screen and (max-device-width: 1199px) {
+/* @media only screen and (max-device-width: 1199px) */
+@media only screen and (max-device-width: 900px) {
 
 #mobile-navbar .uk-offcanvas-bar {
   /*box-shadow: 2px 0 5px 0 #0e0e0e;*/
