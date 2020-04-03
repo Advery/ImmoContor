@@ -318,6 +318,7 @@ footer p {
 .uk-offcanvas-close{
 	right: 15px;
 	padding: 0px;
+	margin-top: 10px;
 }
 
 .uk-nav-sub a {
@@ -358,7 +359,7 @@ footer p {
 }
 
 .uk-offcanvas-bar {
-  padding-top: 40px;
+  padding-top: 75px;
 }
 
 svg{
