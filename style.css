@@ -382,7 +382,7 @@ svg{
 }
 	
 ul.uk-navbar-nav li{
-  width: none;
+  width: none !important;
 }
 
 }
