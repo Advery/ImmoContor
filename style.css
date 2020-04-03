@@ -380,5 +380,9 @@ svg{
 .uk-container{
   margin-bottom: 1rem;	
 }
+	
+ul.uk-navbar-nav li{
+  width: none;
+}
 
 }
