@@ -339,7 +339,7 @@ footer p {
 }
 
 .uk-nav-primary > li > a:hover{
-    color: #fffac6 !important;
+    color: none;
 }
 
 .uk-nav-sub a{
