@@ -385,5 +385,9 @@ svg{
 ul.uk-navbar-nav li{
   width: auto;
 }
+	
+ul.uk-navbar-nav li a:hover{
+  background-color: transparent;
+}
 
 }
