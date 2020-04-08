@@ -398,5 +398,10 @@ ul.uk-navbar-nav li a:hover{
 .wrapper-footer div{
   width: 100%;
 }
-	
+
+footer p {
+  margin-bottom: 2.5rem;
+}
+
+
 }
