@@ -390,5 +390,10 @@ ul.uk-navbar-nav li a:hover{
   background-color: transparent;
 }
 
+/**** Mobile Footer ****/
+.wrapper-footer{
+  flex-direction: column;	
+}
+
 	
 }
