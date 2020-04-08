@@ -405,7 +405,8 @@ footer p {
 }
 
 footer uk.container{
-  padding: 0 !important;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 
