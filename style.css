@@ -392,7 +392,9 @@ ul.uk-navbar-nav li a:hover{
 
 /**** Mobile Footer ****/
 .wrapper-footer{
-  flex-direction: column;	
+  flex-direction: column;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .wrapper-footer div{
