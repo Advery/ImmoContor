@@ -404,9 +404,8 @@ footer p {
   /*text-align: center;*/
 }
 
-footer uk.container{
-  padding-left: 0px;
-  padding-right: 0px;
+footer .uk-container{
+  padding: 0;
 }
 
 
