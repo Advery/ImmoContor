@@ -395,5 +395,8 @@ ul.uk-navbar-nav li a:hover{
   flex-direction: column;	
 }
 
+.wrapper-footer div{
+  width: 100%;
+}
 	
 }
