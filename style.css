@@ -175,7 +175,7 @@ ul.uk-navbar-dropdown-nav li {
   background-color: transparent !important;
 }
 .uk-button-default.uk-align-center, .uk-button-primary.uk-align-center, .uk-button-secondary.uk-align-center {
-  width: 20rem;
+  width: 25rem;
 }
 .uk-button-default:focus, .uk-button-default:hover {
   background-color: #EAEAEA !important;
@@ -225,7 +225,7 @@ font-size: 1.8rem;
 line-height: 2.6rem;
 }
 .card-bei-inhalt .uk-align-center {
-margin-top: 1.5rem;
+margin-top: 2.8rem;
 }
 
 /* FOOTER */
