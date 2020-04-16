@@ -186,11 +186,11 @@ ul.uk-navbar-dropdown-nav li {
 .uk-button-secondary:focus, .uk-button-secondary:hover {
   background-color: #FFF693 !important;
 }
-.uk-captcha .uk-button-link {
+.uk-button-captcha {
 border: 1px solid blue;	
   background-color: lime !important;
 }
-.uk-captcha .uk-button-link:focus, .uk-captcha .uk-button-link:hover {
+.uk-button-captcha:focus, .uk-button-captcha:hover {
   background-color: tomato !important;
 }
 
