@@ -166,7 +166,7 @@ ul.uk-navbar-dropdown-nav li {
 }
 
 /* BUTTONS */
-.uk-button-default, .uk-button-primary, .uk-button-secondary {
+.uk-button-default, .uk-button-primary, .uk-button-secondary, .uk-button-link {
   font-size: 1.5rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -186,6 +186,14 @@ ul.uk-navbar-dropdown-nav li {
 .uk-button-secondary:focus, .uk-button-secondary:hover {
   background-color: #FFF693 !important;
 }
+.uk-button-link {
+border: 1px solid #e5e5e5;	
+  background-color: #EAEAEA !important;
+}
+.uk-button-link:focus, .uk-button-link:hover {
+  background-color: #D6D6D6 !important;
+}
+
 
 /* CARDS */
 .uk-card {
