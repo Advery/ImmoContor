@@ -229,9 +229,8 @@ margin-top: 2.8rem;
 }
 
 /* FORM */
-.uk-form-label {
-	text-transform: uppercase;
-	font-size: 1.5rem;
+.uk-form-label, .control-label {
+font-size: 1.5rem;
 }
 
 /* FOOTER */
