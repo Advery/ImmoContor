@@ -187,11 +187,11 @@ ul.uk-navbar-dropdown-nav li {
   background-color: #FFF693 !important;
 }
 .uk-button-captcha {
-border: 1px solid blue;	
-  background-color: lime !important;
+border: 1px solid #D6D6D6;	
+  background-color: #eaeaea !important;
 }
 .uk-button-captcha:focus, .uk-button-captcha:hover {
-  background-color: tomato !important;
+  background-color: #D6D6D6 !important;
 }
 
 
