@@ -246,6 +246,9 @@ display: flex;
 .uk-captcha .input-group-addon img {
 min-height: 100%;
 }
+.yform select, .yform option {
+font-size: 1.6rem;
+}
 
 /* FOOTER */
 .page-wrapper {
