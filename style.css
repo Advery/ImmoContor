@@ -252,12 +252,12 @@ font-size: 1.6rem;
 
 /* FOOTER */
 .page-wrapper {
-    min-height: calc(100% - 20rem);
-    margin-bottom: -20rem;
+    min-height: calc(100vh - 20rem);
+    /*margin-bottom: -20rem;*/
 }
 .page-wrapper:after {
     content: "";
-    display: block;
+    /*display: block;*/
 }
 .page-footer, .page-wrapper:after {
     height: 18rem;
@@ -274,7 +274,7 @@ font-size: 1.6rem;
   width: 25%;
 }
 .uk-margin-top.page-footer {
-  margin-top: 5rem !important;
+  /*margin-top: 5rem !important;*/
 }
 footer .uk-container {
   margin-bottom: 0;
