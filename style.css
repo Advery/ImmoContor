@@ -131,7 +131,7 @@ ul.uk-navbar-nav li a:hover {
 .uk-navbar-dropdown {
   background-color: rgba(255, 255, 255, 1);
   padding: 4rem 0 2rem 0;
-  margin: 0 0 0 -0.1rem;
+  margin: 0 0 0 -0.1rem !important;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   border-right: 1px solid black;
