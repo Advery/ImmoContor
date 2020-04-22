@@ -263,6 +263,7 @@ font-size: 1.6rem;
 /* REFERENZEN */
 .uk-overlay-primary {
     background: rgba(34,34,34,.5);
+	color: rgba(255,255,255,1);
 }
 
 /* FOOTER */
