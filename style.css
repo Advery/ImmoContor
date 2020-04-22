@@ -421,6 +421,10 @@ ul.uk-navbar-nav li{
 ul.uk-navbar-nav li a:hover{
   background-color: transparent;
 }
+	
+.card-bei-inhalt {
+  width: 100%;
+}
 
 /**** Mobile Footer ****/
 .wrapper-footer{
