@@ -156,7 +156,7 @@ ul.uk-navbar-dropdown-nav li a, .uk-navbar-left li.active ul.uk-navbar-dropdown-
   border-right: none;
   background: transparent;
   min-height: auto;
-  padding: 1rem 3rem 1rem 1.5rem;
+  padding: 1.5rem 3rem 1.5rem 1.5rem;
 }
 .uk-navbar-left li.active ul.uk-navbar-dropdown-nav li a:hover {
   background: #EAEAEA;
