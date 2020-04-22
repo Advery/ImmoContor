@@ -124,6 +124,7 @@ ul.uk-navbar-nav li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+	border: 1px solid black;
 }
 
 /* SUB-NAVIGATION */
