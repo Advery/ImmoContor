@@ -138,7 +138,6 @@ ul.uk-navbar-nav li a:hover {
   border-left: 1px solid black;
   width: auto;
   box-shadow: none;
-  margin-left: -1px;
 }
 .nav-bottom li:last-of-type .uk-navbar-dropdown {
   background-color: rgba(255, 255, 255, 1);
