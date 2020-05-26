@@ -253,7 +253,7 @@ min-height: 100%;
 .yform select, .yform option {
 font-size: 1.6rem;
 }
-#yform-allgemeinform-field-12 {
+.uk-form-controls #yform-allgemeinform-field-12 {
     font-size: 1.6rem;
 }
 
