@@ -255,18 +255,17 @@ font-size: 1.6rem;
 }
 
 /* Carlo Schrift Anpassung */
-
-
 #allgemeinform .uk-select option {
-font-size: 1.2rem;
-color: red !important;
+font-size: 1.4rem;
 }
 #yform-allgemeinform-field-2 {
-color: red;
+font-size: 1.4rem;
 }
-
+#yform-allgemeinform-field-3 {
+font-size: 1.4rem;
+}
 .uk-form-controls #yform-allgemeinform-field-12 {
-    font-size: 1.2rem;
+    font-size: 1.2rem!important;
 }
 
 /* GOOGLE MAPS */
