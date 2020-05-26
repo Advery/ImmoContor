@@ -257,7 +257,7 @@ font-size: 1.6rem;
 /* Carlo Schrift Anpassung */
 #allgemeinform .uk-select option {
 font-size: 1.2rem;
-color: red;
+color: red !important;
 }
 .uk-form-controls #yform-allgemeinform-field-12 {
     font-size: 1.2rem;
