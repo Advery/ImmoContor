@@ -253,6 +253,11 @@ min-height: 100%;
 .yform select, .yform option {
 font-size: 1.6rem;
 }
+
+/* Carlo Schrift Anpassung */
+#allgemeinform .uk-select {
+font-size: 1.6rem;
+}
 .uk-form-controls #yform-allgemeinform-field-12 {
     font-size: 1.6rem;
 }
