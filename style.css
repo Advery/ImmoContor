@@ -255,8 +255,8 @@ font-size: 1.6rem;
 }
 
 /* Carlo Schrift Anpassung */
-#allgemeinform .uk-select {
-font-size: 1.6rem;
+#allgemeinform .uk-select .selected {
+font-size: 1.4rem;
 }
 .uk-form-controls #yform-allgemeinform-field-12 {
     font-size: 1.6rem;
