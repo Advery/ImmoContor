@@ -299,7 +299,7 @@ font-size: 1.5rem;
   background-color: #EAEAEA;
   display: flex;
   padding: 4rem;
-  align-items: center;
+  align-items: flex-start;
   min-height: 18rem;
   box-sizing: border-box;
 }
