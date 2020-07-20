@@ -241,7 +241,7 @@ margin-top: 2.8rem;
 }
 
 /* FORM */
-.uk-form-label, .control-label {
+/*.uk-form-label, .control-label {
 font-size: 1.5rem;
 }
 .uk-captcha {
@@ -252,6 +252,9 @@ min-height: 100%;
 }
 .yform select, .yform option {
 font-size: 1.6rem;
+}*/
+.uk-margin label {
+display: none;
 }
 
 /* Carlo Schrift Anpassung */
