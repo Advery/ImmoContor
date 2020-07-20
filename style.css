@@ -259,6 +259,10 @@ font-size: 1.6rem;
 .uk-margin label {
 display: none;
 }
+.alert-danger {
+background-color: #eaeaea;
+padding: 1.5rem 0.5rem;
+}
 
 /* Carlo Schrift Anpassung */
 #allgemeinform .uk-select option {
